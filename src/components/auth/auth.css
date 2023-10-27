@@ -1,0 +1,9 @@
+body { 
+    background: url('../../assests/images/hotel-background.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    z-index: -1;
+    background-color: rgba(255,255,255,.9) !important;
+}
